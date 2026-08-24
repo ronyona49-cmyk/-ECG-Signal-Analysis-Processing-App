@@ -20,3 +20,5 @@ A MATLAB-based GUI application developed using App Designer for analyzing and pr
 4. Use **Load ECG file** to import your data, adjust the noise/threshold settings, and click **Find peaks** to generate your reports!
 
 <img width="979" height="504" alt="TEST1" src="https://github.com/user-attachments/assets/60d238b8-a61c-4152-a56d-7f72d737fa97" />
+<img width="161" height="582" alt="image" src="https://github.com/user-attachments/assets/fe64237b-5439-4c10-9649-89e845ee4cbf" />
+
